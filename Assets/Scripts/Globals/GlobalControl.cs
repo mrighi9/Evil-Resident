@@ -1,3 +1,7 @@
+//Jimmy Vegas Unity Tutorial
+//This script is for global control
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +10,7 @@ public class GlobalControl : MonoBehaviour
 {
     public static bool disableInv = false;
     public static bool disablePause = false;
+
 
     void Start()
     {
