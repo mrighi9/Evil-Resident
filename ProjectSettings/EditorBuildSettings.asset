@@ -16,5 +16,29 @@ EditorBuildSettings:
     guid: d8ad605237fca8b4eb2b1f2a54042a0d
   - enabled: 1
     path: Assets/Scenes/Part 2.unity
-    guid: 2da207ad92fd912488f33d6309cbe663
+    guid: 5db49fd46fb6fa34b88bd5066f7e1a59
+  - enabled: 1
+    path: Assets/Scenes/Partes/Hall.unity
+    guid: ec0f200da86403546996c4b15ece50b5
+  - enabled: 1
+    path: Assets/Scenes/Partes/Cozinha.unity
+    guid: 134aa7f0549d11f428dd05cc7c18f7b3
+  - enabled: 1
+    path: Assets/Scenes/Partes/Quarto1.unity
+    guid: a9036379e0165bb4a8f3281de4bb190d
+  - enabled: 1
+    path: Assets/Scenes/Partes/Corredor-Biblioteca.unity
+    guid: 8510e603927ebb24ebbedbd419a27cf0
+  - enabled: 1
+    path: Assets/Scenes/Partes/Quarto2.unity
+    guid: 914e42fcb999b474ea3616ddeb45448f
+  - enabled: 1
+    path: Assets/Scenes/Partes/Sala1.unity
+    guid: e842145aef5354445b3ab76e27b99e65
+  - enabled: 1
+    path: Assets/Scenes/Partes/SalaFinal.unity
+    guid: dfffdf00eb66c894498197f09d0b3c99
+  - enabled: 1
+    path: Assets/Scenes/Partes/Sala2.unity
+    guid: d13e7da08e28d1c4683baf55ea77d74e
   m_configObjects: {}

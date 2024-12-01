@@ -14,7 +14,7 @@ public class GlobalControl : MonoBehaviour
 
     void Start()
     {
-        Cursor.visible = false;
+        Cursor.visible = true;
     }
 
 
