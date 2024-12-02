@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Partes/Sala2.unity
     guid: d13e7da08e28d1c4683baf55ea77d74e
+  - enabled: 1
+    path: Assets/Scenes/Partes/TelaInicial.unity
+    guid: 6e9f64da7f6d7aa4f833859c03060444
   m_configObjects: {}

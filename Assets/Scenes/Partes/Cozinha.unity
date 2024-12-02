@@ -1284,7 +1284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gamePaused: 0
-  areaBGM: {fileID: 0}
+  areaBGM: {fileID: 1607368495}
   pauseScreen: {fileID: 1291071924}
   quitButton: {fileID: 1796855291}
   restartButton: {fileID: 1543019115}

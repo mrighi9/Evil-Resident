@@ -1,7 +1,3 @@
-//Jimmy Vegas Unity Tutorial
-//This script is for global control
-
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
