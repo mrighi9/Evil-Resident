@@ -1476,7 +1476,7 @@ MonoBehaviour:
   canTransfer: 0
   doorAnimationDuration: 8
   doorSceneIndex: 2
-  targetSceneIndex: 9
+  targetSceneIndex: 19
 --- !u!65 &917159128
 BoxCollider:
   m_ObjectHideFlags: 0
