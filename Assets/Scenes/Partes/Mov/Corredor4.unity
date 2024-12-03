@@ -2669,8 +2669,8 @@ MonoBehaviour:
   fadeOut: {fileID: 1902098767}
   canTransfer: 0
   doorAnimationDuration: 8
-  doorSceneIndex: 2
-  targetSceneIndex: 6
+  doorSceneIndex: 17
+  targetSceneIndex: 3
 --- !u!65 &306897181
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3267,8 +3267,8 @@ MonoBehaviour:
   fadeOut: {fileID: 1902098767}
   canTransfer: 0
   doorAnimationDuration: 8
-  doorSceneIndex: 2
-  targetSceneIndex: 9
+  doorSceneIndex: 17
+  targetSceneIndex: 6
 --- !u!65 &556331607
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9769,8 +9769,8 @@ MonoBehaviour:
   fadeOut: {fileID: 1902098767}
   canTransfer: 0
   doorAnimationDuration: 8
-  doorSceneIndex: 2
-  targetSceneIndex: 14
+  doorSceneIndex: 17
+  targetSceneIndex: 10
 --- !u!65 &917159128
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13489,8 +13489,8 @@ MonoBehaviour:
   fadeOut: {fileID: 1902098767}
   canTransfer: 0
   doorAnimationDuration: 8
-  doorSceneIndex: 2
-  targetSceneIndex: 8
+  doorSceneIndex: 17
+  targetSceneIndex: 5
 --- !u!65 &1730517291
 BoxCollider:
   m_ObjectHideFlags: 0
